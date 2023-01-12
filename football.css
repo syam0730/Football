@@ -1,0 +1,38 @@
+.container{
+    border: 3px solid black;
+    width: 1600px;
+    height: 400px;
+    margin-top: 100px;
+    background: transparent url(./aasets/images/football_pitch_clip_art_15714.jpg)50% 60% no-repeat padding-box ;
+}
+.goal1{
+    border: 0px solid black;
+    width:80px;
+    height: 80px;
+    margin-top: 160px;
+}
+.goal2{
+    border: 0px solid black;
+    width:80px;
+    height: 80px;
+    margin-left: 1020px;
+    margin-top: -75px;
+}
+.buttoncontainer{
+
+    width: 500px;
+    font-size: 40px;
+    padding: 0px;
+    border-radius: 10px;
+    margin-top : 100px;
+    margin-left:  620px;
+}
+img{
+    border: 1px solid black;
+    position: absolute;
+    top: auto;
+    left: 700px;
+    width: 50px;
+    height: 50px;
+    border-radius: 60%;
+}
